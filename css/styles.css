@@ -92,6 +92,10 @@ button {
   width: 15px;
 }
 
+.hide {
+  background: red;
+}
+
 .show {
   color: #000;
   background-color: #76CE82;
@@ -117,6 +121,7 @@ button {
   background: #FFFFFF;
   border-radius: 5px;
   font-size: var(--font-size-medium);
+  cursor: pointer;
 }
 
 /* Overlay */
