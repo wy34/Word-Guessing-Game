@@ -1,2 +1,2 @@
 # GameShowApp
- Treehouse techdegree focusing on Dom Manipulation
+Simple word guessing game focusing on Dom Manipulation
